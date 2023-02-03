@@ -21,7 +21,7 @@
     "dotenv": "^16.0.1",
     "expo": "~45.0.0",
     "expo-app-loading": "~2.0.0",
-    "expo-auth-session": "~3.6.1",
+    "expo-auth-session": "~4.0.0",
     "expo-font": "~10.1.0",
     "expo-linear-gradient": "~11.3.0",
     "expo-random": "~12.2.0",
